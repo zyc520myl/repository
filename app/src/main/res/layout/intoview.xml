@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/intoview"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E6FF"
+    >
+    <Button
+        android:id="@+id/bt_start"
+        android:layout_height="50dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"
+        android:text="开始游戏"/>
+
+
+
+</LinearLayout>
