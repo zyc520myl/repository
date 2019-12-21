@@ -36,6 +36,7 @@ public class ShuduData {
         }
         return number;
     }
+
     private Integer getIndex(String s){
         switch (s){
             case "a":
